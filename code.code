@@ -276,3 +276,5 @@ module.exports = {
     },
   ],
 }
+#Instead of creating new accounts and passwords on every website, just connect your wallet.
+
